@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zaidxdev.zaidxdev" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zaidxdev.zaidxdev" /> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=45&duration=7500&pause=1000&color=44B7F7&random=false&width=439&height=70&lines=Hello+There;I+am+zaid" alt="Hello there" />
 <br><br/>

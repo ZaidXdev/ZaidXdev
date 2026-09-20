@@ -1,36 +1,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=45&duration=5000&pause=1000&color=44B7F7&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Zaid;Software+Developer;Building+things+with+Flutter" alt="Hey, I'm Zaid" />
 
-<p align="center">
-  <a href="https://zaidxdev.github.io/cv/">Website</a>
-  •
-  <a href="https://leetcode.com/zaidsaleh">LeetCode</a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm Zaid, a software developer from Jordan.
+I'm Zaid, a software developer.
 
-I enjoy building full-stack applications, experimenting with new technologies, and turning ideas into real products.
+I'm passionate about building full-stack applications/websites, learning the latest tech, and solving real-life problems.
 
-Currently working mainly with **Flutter, Dart, Python, and FastAPI**.
-
-## 🚀 What I'm Building
-
-### 💰 Wealth Management
-
-A full-stack wealth management platform built with Flutter and FastAPI.
-
-Features include:
-
-* 📈 Stock market data
-* 💵 Dividend tracking
-* 📊 Portfolio management
-* 🧾 Transaction tracking
-* 🏦 Manual assets
-* 📉 Interactive stock charts
-* 🔐 Authentication and user accounts
+Working mainly with **Flutter, Dart, Python, and FastAPI**.
 
 ## 🛠️ Tech Stack
 

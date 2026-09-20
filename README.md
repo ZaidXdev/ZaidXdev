@@ -8,7 +8,7 @@ I'm Zaid, a software developer.
 
 I'm passionate about building full-stack applications/websites, learning the latest tech, and solving real-life problems.
 
-Working mainly with **Flutter, Dart, Python, and FastAPI**.
+Working mainly with **Flutter, Dart, Ollama, Python, and FastAPI**.
 
 ## 🛠️ Tech Stack
 

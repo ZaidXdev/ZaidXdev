@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=45&duration=5000&pause=1000&color=44B7F7&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Zaid;Software+Developer;Building+things+with+Flutter" alt="Hey, I'm Zaid" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=45&duration=5000&pause=1000&color=#dfe3ef&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Zaid;Software+Developer;Building+things+with+Flutter" alt="Hey, I'm Zaid" />
 
 ---
 
